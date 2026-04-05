@@ -46,7 +46,7 @@ public static function table(Table $table): Table
         return [
             //
         ];
-    }
+    }//ok
 
     public static function getPages(): array
     {
