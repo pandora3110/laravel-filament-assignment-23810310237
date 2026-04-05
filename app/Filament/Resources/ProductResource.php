@@ -58,7 +58,7 @@ class ProductResource extends Resource
                     ->default(12),
             ]),
         ])
-    ]);//ok
+    ]);
 }
 
 public static function table(Table $table): Table
